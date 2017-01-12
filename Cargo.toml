@@ -1,0 +1,9 @@
+[package]
+name = "polysync-repo-lister"
+version = "0.1.0"
+authors = ["Jeff Crocker <jcrocker@polysync.io>"]
+
+[dependencies]
+curl = "^0.4"
+docopt = "^0.7"
+reqwest = "^0.3"
