@@ -6,4 +6,4 @@ authors = ["Jeff Crocker <jcrocker@polysync.io>"]
 [dependencies]
 curl = "^0.4"
 docopt = "^0.7"
-reqwest = "^0.3"
+json = "^0.11"
